@@ -17,7 +17,7 @@ export default function Details({ route }) {
     return <Text style={{ textAlign: "center" }}>Loading...</Text>;
   }
   const images = [
-    require("../screens/images/ii.jpg"),
+    require("../screens/images/hh.jpg"),
     require("../screens/images/aa.jpeg"),
     require("../screens/images/bb.jpeg"),
     require("../screens/images/cc.jpeg"),
@@ -25,7 +25,7 @@ export default function Details({ route }) {
     require("../screens/images/ee.jpeg"),
     require("../screens/images/ff.jpeg"),
     require("../screens/images/gg.jpeg"),
-    require("../screens/images/ii.jpg"),
+    require("../screens/images/hh.jpg"),
     require("../screens/images/aa.jpeg"),
   ];
 
